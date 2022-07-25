@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Tay",
+        "email": "tay@labenu.com",
+        "birth_date": "1000-01-01",
+        "class_id": "1"
+    },
+    {
+        "id": "2",
+        "name": "Goku",
+        "email": "goku@labenu.com",
+        "birth_date": "1000-01-01",
+        "class_id": "3"
+    },
+    {
+        "id": "3",
+        "name": "Gohan",
+        "email": "gohan@labenu.com",
+        "birth_date": "1000-01-01",
+        "class_id": "2"
+    }
+]
