@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "name": "Júlio Cesar",
+        "email": "ju@gmail.com",
+        "birth_date": "1991-01-05",
+        "class_id": "1"
+    },
+    {
+        "id": "2",
+        "name": "Jorge",
+        "email": "jorge@gmail.com",
+        "birth_date": "1500-01-01",
+        "class_id": "2"
+    },
+    {
+        "id": "3",
+        "name": "Aninha",
+        "email": "aninha@gmail.com",
+        "birth_date": "1600-01-01",
+        "class_id": "3"
+    }
+]
